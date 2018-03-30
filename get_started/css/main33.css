@@ -1,0 +1,85 @@
+==========================================================================
+   Author's custom styles BY DOTKING.CO
+   ========================================================================== */
+* {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+body {
+    color: #2C2E2F;
+    font-size: 94%;
+    line-height: 1.5em;
+    background-color: #FFFFFF;
+    font-family: HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+ul,
+ol,
+li {
+	margin:0;
+	padding:0;
+}
+p {
+	color: #2C2E2F;
+	margin: 20px 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0;
+	color: #2C2E2F;
+	font-weight: 300;
+    line-height: 1.2;
+}
+h1 {
+	font-size: 1.73333333em;
+}
+h2 { 
+	padding: 0;
+	font-size: 1.4em;
+}
+a,
+a:visited {
+	color: #0079AD;
+	font-weight:400;
+	text-decoration:none;
+	-webkit-transition:color .2s ease-out;
+	-moz-transition:color .2s ease-out;
+	-o-transition:color .2s ease-out;
+	transition:color .2s ease-out
+}
+a:hover,
+a:focus {
+	outline: 0;
+	color: #008AC5;
+	text-decoration: underline;
+}
+/* ==========================================================================
+   M A I N . L O G N . F O O T E R
+   ========================================================================== */
+.main-login-footer {
+    font-size: 11px;
+    text-align: center;
+    padding-bottom: 15px;
+    margin: 24px auto 15px;
+}
+.main-login-footer ul {
+    list-style-type: none;
+}
+.main-login-footer ul li {
+    margin: 0px;
+    padding-left: 0.4em;
+    display: inline-block;
+}
+.main-login-footer ul li:first-child {
+    background: transparent none repeat scroll 0px 0px;
+}
+.main-login-footer ul li a {
+    color: #666666;
+    margin-right: 0.5em;
+    white-space: nowrap;
+}
+/* 
